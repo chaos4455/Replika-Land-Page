@@ -42,14 +42,6 @@ Bem-vindo ao repositório da **Replika AI Solutions**! Este projeto é uma pági
 2. **Garantir uma experiência de usuário excepcional**, com um design que facilite a navegação e engaje visitantes.
 3. **Demonstrar habilidades técnicas e criativas** no desenvolvimento front-end.
 
-### 🔗 **Links Úteis**
-
-- **Visite a Página**: [Replika AI Solutions](http://www.replikaaisolutions.com)
-- **Portfólio Completo**: [Elias Andrade - Portfolio](http://www.eleiasandrade.com.br/portfolio)
-
----
-
----
 
 **Elias Andrade**  
 *Desenvolvedor Front-End | Especialista em Machine Learning e IA para B2B*
